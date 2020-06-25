@@ -3,4 +3,5 @@ MNIST/
 GermanDataset/
 data/
 CatsVsDogs/
+.npy
 trainingData.npy
