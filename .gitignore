@@ -6,3 +6,4 @@ CatsVsDogs/
 .npy
 trainingData.npy
 StreetSignsData.npy
+StreetSignsTest.npy
